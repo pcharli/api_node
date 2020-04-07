@@ -1,0 +1,15 @@
+{
+  "name": "server",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "node _server/server.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "express": "^4.16.3",
+    "chai": "^4.1.2",
+    "cors": "^2.8.4",
+    "underscore": "^1.9.1"
+  }
+}
